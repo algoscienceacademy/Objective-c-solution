@@ -1,4 +1,13 @@
 
+---
+
+## References
+
+- **AlgoScience Academy**, Objective-C Code Practice Tutorial. Authored by Shahrear Hossain. Available from [AlgoScience Academy](https://algoscience.com) (2024).
+
+---
+
+You can adjust the URL or details as per the actual resource. Let me know if you need further customization!
 # Objective-C Code Practice
 
 Welcome to this comprehensive guide for practicing Objective-C programming. Whether you're a beginner or someone looking to solidify their knowledge, this document is structured to take you through key concepts with detailed explanations and code examples.
