@@ -15,7 +15,7 @@ int main(int argc , const char* argv[])
     NSLog(@"Enter a Alpabet :");
     scanf("%c",&ch);
     
-    if (ch =='A' || ch == 'E' ||ch == 'I' || ch== 'O'|| ch =='U' || ch <= 'a' ||ch == 'e' || ch== 'i'|| ch =='o' || ch <= 'u')
+    if (ch =='A' || ch == 'E' ||ch == 'I' || ch== 'O'|| ch =='U' || ch <= 'a' ||ch == 'e' || ch== 'i'|| ch =='o' || ch == 'u')
     {
         NSLog(@"%c is a Vowel",ch);
     }
